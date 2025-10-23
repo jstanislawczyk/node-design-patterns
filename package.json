@@ -1,0 +1,27 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "A collection of design pattern implementations in Node.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jstanislawczyk/node-design-patterns.git"
+  },
+  "keywords": [
+    "design-patterns"
+  ],
+  "author": "jstanislawczyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jstanislawczyk/node-design-patterns/issues"
+  },
+  "homepage": "https://github.com/jstanislawczyk/node-design-patterns#readme",
+  "type": "module",
+  "scripts": {
+    "creational-singleton": "tsx ./creational/singleton/singleton.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
