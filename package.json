@@ -18,7 +18,8 @@
   "homepage": "https://github.com/jstanislawczyk/node-design-patterns#readme",
   "type": "module",
   "scripts": {
-    "creational-singleton": "tsx ./creational/singleton/singleton.ts"
+    "creational-singleton": "tsx ./creational/singleton/singleton.ts",
+    "creational-abstract-factory": "tsx creational/abstract-factory/abstract-factory.ts"
   },
   "devDependencies": {
     "tsx": "^4.20.6",
