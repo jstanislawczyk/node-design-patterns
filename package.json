@@ -22,7 +22,8 @@
     "creational-factory-method": "tsx creational/factory-method/factory-method.ts",
     "creational-abstract-factory": "tsx creational/abstract-factory/abstract-factory.ts",
     "structural-adapter": "tsx structural/adapter/adapter.ts",
-    "structural-bridge": "tsx structural/bridge/bridge.ts"
+    "structural-bridge": "tsx structural/bridge/bridge.ts",
+    "structural-composite": "tsx structural/composite/composite.ts"
   },
   "devDependencies": {
     "tsx": "^4.20.6",
