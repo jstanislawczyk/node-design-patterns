@@ -23,7 +23,8 @@
     "creational-abstract-factory": "tsx creational/abstract-factory/abstract-factory.ts",
     "structural-adapter": "tsx structural/adapter/adapter.ts",
     "structural-bridge": "tsx structural/bridge/bridge.ts",
-    "structural-composite": "tsx structural/composite/composite.ts"
+    "structural-composite": "tsx structural/composite/composite.ts",
+    "structural-decorator": "tsx structural/composite/decorator.ts"
   },
   "devDependencies": {
     "tsx": "^4.20.6",
