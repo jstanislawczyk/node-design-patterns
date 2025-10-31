@@ -25,7 +25,8 @@
     "structural-bridge": "tsx structural/bridge/bridge.ts",
     "structural-composite": "tsx structural/composite/composite.ts",
     "structural-decorator": "tsx structural/decorator/decorator.ts",
-    "behavioral-chain-of-responsibility": "tsx behavioral/chain-of-responsibility/chain-of-responsibility.ts"
+    "behavioral-chain-of-responsibility": "tsx behavioral/chain-of-responsibility/chain-of-responsibility.ts",
+    "behavioral-command": "tsx behavioral/command/command.ts"
   },
   "devDependencies": {
     "@types/node": "^24.9.2",
