@@ -27,7 +27,8 @@
     "structural-decorator": "tsx structural/decorator/decorator.ts",
     "behavioral-chain-of-responsibility": "tsx behavioral/chain-of-responsibility/chain-of-responsibility.ts",
     "behavioral-command": "tsx behavioral/command/command.ts",
-    "behavioral-mediator": "tsx behavioral/mediator/mediator.ts"
+    "behavioral-mediator": "tsx behavioral/mediator/mediator.ts",
+    "behavioral-observer": "tsx behavioral/observer/observer.ts"
   },
   "devDependencies": {
     "@types/node": "^24.9.2",
