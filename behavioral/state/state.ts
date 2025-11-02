@@ -4,6 +4,7 @@ import {DraftState} from './document/states/draft-state';
 const document = new DocumentContext(new DraftState(null as any));
 (document as any).state = new DraftState(document);
 
+console.log("--- State ---")
 document.edit();
 document.publish();
 document.publish();
