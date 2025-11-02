@@ -28,7 +28,8 @@
     "behavioral-chain-of-responsibility": "tsx behavioral/chain-of-responsibility/chain-of-responsibility.ts",
     "behavioral-command": "tsx behavioral/command/command.ts",
     "behavioral-mediator": "tsx behavioral/mediator/mediator.ts",
-    "behavioral-observer": "tsx behavioral/observer/observer.ts"
+    "behavioral-observer": "tsx behavioral/observer/observer.ts",
+    "behavioral-state": "tsx behavioral/state/state.ts"
   },
   "devDependencies": {
     "@types/node": "^24.9.2",
