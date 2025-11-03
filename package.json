@@ -31,7 +31,8 @@
     "behavioral-observer": "tsx behavioral/observer/observer.ts",
     "behavioral-state": "tsx behavioral/state/state.ts",
     "behavioral-strategy": "tsx behavioral/strategy/strategy.ts",
-    "behavioral-template-method": "tsx behavioral/template-method/template-method.ts"
+    "behavioral-template-method": "tsx behavioral/template-method/template-method.ts",
+    "behavioral-visitor": "tsx behavioral/visitor/visitor.ts"
   },
   "devDependencies": {
     "@types/node": "^24.9.2",
